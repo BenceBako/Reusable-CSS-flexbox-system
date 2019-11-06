@@ -1,1 +1,0 @@
-This algrotihm requires SASS/SCSS to work, although can be modified to compile without it.
